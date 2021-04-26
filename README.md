@@ -1,6 +1,6 @@
 
 ## Hi, I'm [Abhishek Gupta!](https://github.com/coder-abhi18) 👋
-I am a tech enthusiast 💻 who loves programming & exploring more about Artificial Intelligence!
+I am pursuing my bachelor degree in computer science and engineering!
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-abhi18&label=Profile views&color=green&style=plastic" alt="Coder-abhi18" /> </p>
